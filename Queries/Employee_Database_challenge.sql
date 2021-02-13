@@ -1,7 +1,6 @@
 -- Challenge 
 
-  
-
+ 
 SELECT e.emp_no,
 e.first_name,
 e.last_name,
