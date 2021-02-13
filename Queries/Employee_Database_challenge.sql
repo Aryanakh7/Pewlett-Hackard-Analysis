@@ -1,7 +1,6 @@
 -- Challenge 
 
   
--- Use Dictinct with Orderby to remove duplicate rows
 
 SELECT e.emp_no,
 e.first_name,
@@ -18,7 +17,7 @@ Order BY e.emp_no;
 
 SELECT * FROM retirement_titles
 
--- Use Dictinct with Orderby to remove duplicate rows
+-- Use Distinct with Orderby to remove duplicate rows
 
 
 SELECT DISTINCT ON (emp_no) emp_no,
