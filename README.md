@@ -12,7 +12,7 @@ From the analysis performed on the Pewlett Hackard data regarding the number of 
 - There are **90,398** retiring employees.
 - As shown on the table below, Senior Engineers and Senior Staff will constitute more than half the number of retiring employees, as they respectively account for **29,414** and **28,254** of retiring employees.
 
-![image](https://user-images.githubusercontent.com/75655852/107867140-273ce380-6e46-11eb-98b0-9d8c2d40f0a0.png)
+![image](https://user-images.githubusercontent.com/75655852/107871175-4bf88180-6e6d-11eb-8aeb-22e54cd3cef2.png)
 
 - There are **1,549** employees eligible to participate in the mentorship program.
 - There are only two Managers who will retire. 
