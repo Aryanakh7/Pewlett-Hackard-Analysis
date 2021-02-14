@@ -15,7 +15,7 @@ From the analysis performed on the Pewlett Hackard data regarding the number of 
 ![image](https://user-images.githubusercontent.com/75655852/107871175-4bf88180-6e6d-11eb-8aeb-22e54cd3cef2.png)
 
 - There are **1,549** employees eligible to participate in the mentorship program.
-- There are only two Managers who will retire. 
+- There are only **two** Managers who will retire. 
 
 ## Conclusion
 
