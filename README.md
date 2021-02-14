@@ -33,4 +33,3 @@ Since 90,398 employees are leaving the company for retirement, the same number o
 
 This could be resolved by extending the eligibility of the program to include Senior staff and Managers who were not born between January 1, 1965 and December 31, 1965. 
 By expanding the eligibility criteria of mentors, there will be more mentors available and a more adequate ratio of employees assigned as mentees. This will prevent the quality of the mentorship from deteriorating and will help achieve the intended goals of the mentorship program.
-
