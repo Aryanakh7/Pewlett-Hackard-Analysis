@@ -3,7 +3,7 @@
 
 ## Purpose of the Analysis
 
-The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. This will help the company elaborate a strategy to manage the retirement of current and future employees and develop a plan of action for future employees, while preparing strategies for the implementation of a mentorship program by identifying who is illegible to participate.
+The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. This will help the company elaborate a strategy to manage the retirement of current and future employees and develop a plan of action for future employees, while preparing strategies for the implementation of a mentorship program by identifying who is eligible to participate.
 
 ## Analysis Results 
 
