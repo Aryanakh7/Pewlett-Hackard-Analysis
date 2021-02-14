@@ -21,7 +21,7 @@ From the analysis performed on the Pewlett Hackard data regarding the number of 
 
 There is a total of 300,024 employees working at Pewlett Hackard and 90,398 of them are retiring.
 Expressed as a percentage, almost 30% of all employees are retiring.
-As illustrated below, The Production Department and the Sales Department have the highest number of employees per department and will therefore be affected by the increasing number of employees who are retiring. 
+As illustrated below, the Development Department and the Production Department have the highest number of employees per department and will therefore be affected by the increasing number of employees who are retiring. 
 
 ![image](https://user-images.githubusercontent.com/75655852/107867286-ac74c800-6e47-11eb-9fbb-85ecbeebedbc.png)
 
